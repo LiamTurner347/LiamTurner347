@@ -1,7 +1,5 @@
 ## Hello, I'm Liam 👋
 
-### About Me
-
 I'm a backend-leaning full-stack engineer with expertise in JavaScript, TypeScript, Ruby, PostgreSQL, and React. I excel at breaking down complex problems systematically and communicating technical concepts with precision, abilities sharpened during my previous career as a lawyer. I'm always eager to learn new technologies and keen to solve increasingly challenging problems.
 
 Away from the computer, you will likely find me:
