@@ -24,4 +24,4 @@ You can learn more about Frame [here](https://www.frame-platform.com/case-study/
 
 ### Connect With Me
 
-You can reach me via [LinkedIn](https://www.linkedin.com/in/liamturner347/) or [Email](liamturnerprop@gmail.com): liamturnerprop@gmail.com.
+You can reach me via [LinkedIn](https://www.linkedin.com/in/liamturner347/) or [Email](mailto:liamturnerprop@gmail.com): liamturnerprop@gmail.com.
