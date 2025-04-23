@@ -12,7 +12,7 @@ You can learn more about Frame [here](https://www.frame-platform.com/case-study/
 
 | Category | Technologies |
 |----------|-------------|
-| Front-end | JavaScript (ES6+), TypeScript, React, Astro, HTML/CSS, Axios |
+| Front-end | JavaScript, TypeScript, React, Astro, HTML/CSS, Axios |
 | Back-end | Node.js, Express, Hono, Ruby, Sinatra, PostgreSQL (incl. pgvector), MongoDB, REST APIs, Zod, Redis |
 | Cloud | Digital Ocean, AWS (Lambda, S3, IAM, CDK, API Gateway, Secrets Manager, Bedrock, RDS, SQS), Heroku |
 | Other | Git/GitHub, Docker, Linux, Bash, HTTP, WebSockets, OOP, Nginx, Postman, OpenAI, Jest, SQL, OpenAPI |
